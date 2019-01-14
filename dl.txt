@@ -13,7 +13,7 @@ Visto il decreto legislativo 1°  settembre  1993,  n.  385,  «Testo unico delle 
 e successive modifiche e integrazioni;
 Visto il decreto legislativo 16  novembre  2015,  n.  180,  recante «Attuazione della direttiva 2014/59/UE
 del Parlamento europeo  e  del Consiglio,  del  15  maggio  2014,  che  istituisce  un   quadro   di risanamento e risoluzione degli enti creditizi  e  delle  imprese  di investimento e che modifica
-la direttiva 82/891/CEE del Consiglio,  e le  direttive   2001/24/CE,   2002/47/CE,   2004/25/CE,   2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE
+la direttiva 82/891/CEE del Consiglio, e le  direttive   2001/24/CE,   2002/47/CE,   2004/25/CE,   2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE
 e i regolamenti (UE), n. 1093/2010 e  (UE)  n.  648/2012,  del  Parlamento  europeo  e  del Consiglio»;
 Visto, in particolare, l'articolo 18 del  decreto  legislativo  180 del 2015;
 Visto il decreto legislativo 16  novembre  2015,  n.  181,  recante «Modifiche del decreto legislativo 1° settembre 1993, n.  385  e  del decreto legislativo 24 febbraio 1998,
@@ -21,11 +21,11 @@ n.  58,  in  attuazione  della direttiva 2014/59/UE del Parlamento europeo e del
 e  che  modifica la direttiva 82/891/CEE del Consiglio,  e  le  direttive  2001/24/CE, 2002/47/CE,   2004/25/CE,   2005/56/CE,    2007/36/CE,    2011/35/UE, 2012/30/UE e 2013/36/UE e i regolamenti (UE), n. 1093/2010 e (UE)  n. 648/2012, del Parlamento europeo e del Consiglio»;
 Vista la comunicazione della Commissione europea  2013/C  -  216/01 concernente l'applicazione dal 1° agosto 2013
 delle regole in materia di aiuti di Stato alle misure di sostegno alle  banche  nel  contesto della crisi finanziaria (la «Comunicazione sul settore bancario»);
-Visti gli esiti degli  esercizi  di  stress  effettuati  a  livello nazionale, dell'Unione europea o del Meccanismo di vigilanza unico;
-Vista la nota del 22 dicembre 2016 con cui  la  Banca  d'Italia  ha trasmesso l'asseverazione, da parte di esperti indipendenti  da  essa nominati,  del  valore  attribuibile  agli   strumenti   e   prestiti assoggettabili a conversione obbligatoria in azioni emessi da  «Banca Monte dei Paschi di Siena S.p.A.» ai sensi dell'articolo 22, comma 2, del  presente  decreto-legge,  indicato  nei  pareri  predisposti  da esperti incaricati dalla banca medesima ai fini della  determinazione del prezzo di acquisto dei medesimi strumenti e prestiti  nell'ambito dell'offerta pubblica di acquisto volontaria promossa il 28  novembre 2016 da «Banca  Monte  dei  Paschi  di  Siena  S.p.A.»  su  strumenti subordinati  dalla  stessa  emessi  o  garantiti   con   obbligo   di reinvestimento del corrispettivo in nuove azioni;
-Ritenuto,  sulla  base  dell'asseverazione   acquisita   da   Banca d'Italia, che il valore di  riferimento  degli  strumenti  finanziari Tier1  si  possa  collocare  nella  fascia  bassa  degli   intervalli individuati dagli esperti incaricati dalla «Banca Monte dei Paschi di Siena», e che per gli strumenti finanziari Lower Tier 2 ed Upper Tier 2 il valore di riferimento si possa collocare nell'intorno del valore centrale degli intervalli indicati  dagli  esperti  incaricati  dalla «Banca Monte dei Paschi di Siena»;
-Ritenuta  la  straordinaria  necessita'  ed  urgenza   di   emanare disposizioni volte a garantire  la  stabilita'  economico-finanziaria del Paese, garantire la disponibilita' del supporto pubblico a misure di  rafforzamento  patrimoniale  e  assicurare  la   protezione   del risparmio;
-Vista la deliberazione del Consiglio dei ministri,  adottata  nella riunione del 22 dicembre 2016;
+Visti gli esiti degli esercizi di stress condotti  nel  2018  dalla BCE nell'ambito del Meccanismo di Vigilanza Unico relativi alla Banca Carige S.p.A - Cassa di Risparmio di Genova  e  Imperia  (di  seguito "Banca Carige" o "l'Emittente"), che hanno evidenziato una carenza di capitale;
+Vista la mancata approvazione da parte dell'assemblea straordinaria di Banca Carige, convocata in unica convocazione in data 22  dicembre 2018, della proposta di aumento del capitale sociale per  un  importo massimo complessivo pari a euro 400 milioni;
+Considerato che in data 2 gennaio  2019  e'  stata  disposta  dalla Banca  Centrale  Europea  l'Amministrazione  Straordinaria  di  Banca Carige, al fine di  assicurare  maggiore  stabilita'  e  coerenza  al governo della societa' e consentire il proseguimento delle  attivita' di rafforzamento patrimoniale dell'Istituto.    Ritenuta  la  straordinaria  necessita'  ed  urgenza   di   emanare disposizioni volte a garantire a Carige misure di sostegno  pubblico, al fine di  garantire  la  stabilita'  finanziaria  e  assicurare  la protezione del risparmio;
+Considerato che gli  strumenti  di  debito  subordinato  emessi  da Carige, risultano scaduti o estinti, tranne che per lo strumento Tier 2 per un valore nominale di 320 milioni di  euro  sottoscritto  dallo Schema Volontario di Intervento del Fondo interbancario per la Tutela dei Depositi e da Banco di Desio e della Brianza;
+Vista la deliberazione del Consiglio dei ministri,  adottata  nella riunione del 7 gennaio 2019;
 Sulla proposta del Presidente del  Consiglio  dei  ministri  e  del Ministro dell'economia e delle finanze; 
  
                                 Emana 
@@ -39,16 +39,12 @@ Sulla proposta del Presidente del  Consiglio  dei  ministri  e  del Ministro del
 Al fine di evitare o porre rimedio  a  una  grave  perturbazione dell'economia  e  preservare  la  stabilita'  finanziaria,
 ai  sensi dell'articolo 18 del decreto legislativo 16 novembre 2015,
 n.  180  e dell'articolo 18, paragrafo 4, lettera d), del  regolamento  (UE)  n. 806/2014 del Parlamento europeo e del Consiglio del 15  luglio  2014,
-il Ministero dell'economia e delle finanze e' autorizzato, fino al 30 giugno 2017,
-a concedere la garanzia dello Stato su passivita' delle banche italiane in conformita' di quanto previsto dal presente Capo I,
-nel rispetto della disciplina europea in materia di aiuti di Stato.
+il Ministero dell'economia e delle finanze e' autorizzato, fino al 30 giugno 2019,
+a concedere la garanzia dello Stato su passivita' di nuova emissione di Banca Carige in conformita' di quanto previsto dal presente Capo I,
+nel rispetto della disciplina europea in materia di aiuti di Stato, fino a un valore nominale di 3.000 milioni di euro.;
 2. 
-Per banche italiane si intendono le banche aventi sede legale in Italia.
+La garanzia e' concessa in conformita' ai paragrafi da 56  a  62 della Comunicazione sul settore bancario.;
 3. 
-La garanzia puo' essere concessa solo dopo la positiva decisione della Commissione europea sul regime di concessione della garanzia o, nel caso previsto dall'articolo  4,  commi  2  e  3,  sulla  notifica individuale.
-4. 
-Il Ministro dell'economia  e  delle  finanze  puo'  con  proprio decreto estendere il periodo di cui al comma  1  e  all'articolo  10, comma 1, fino a un massimo di ulteriori sei mesi previa  approvazione da parte della Commissione europea.
-5. 
 Nel presente Capo I per Autorita' competente si intende la Banca d'Italia o la Banca Centrale Europea secondo le modalita' e nei  casi previsti dal regolamento (UE)  del  Consiglio  n.  1024/2013  del  15 ottobre 2013. 
 
                                Art. 2 
@@ -56,8 +52,8 @@ Nel presente Capo I per Autorita' competente si intende la Banca d'Italia o la B
              Caratteristiche degli strumenti finanziari 
  
 1. 
-La garanzia  dello  Stato  puo'  essere  concessa  su  strumenti finanziari  di  debito  emessi  da  banche  italiane  che  presentino congiuntamente le seguenti caratteristiche:
-a) sono emessi successivamente all'entrata in vigore del presente decreto-legge,  anche   nell'ambito   di   programmi   di   emissione preesistenti, e hanno durata residua non inferiore a tre mesi  e  non superiore a cinque anni o a sette anni per le  obbligazioni  bancarie garantite di cui all'articolo 7-bis della legge 30  aprile  1999,  n. 130;
+La garanzia  dello  Stato  puo'  essere  concessa  su  strumenti finanziari  di  debito  emessi  da  Banca   Carige   che   presentino congiuntamente le seguenti caratteristiche:
+a) sono emessi successivamente all'entrata in vigore del presente decreto-legge,  anche   nell'ambito   di   programmi   di   emissione preesistenti, e hanno durata residua non inferiore a due mesi  e  non superiore a cinque anni o a sette anni per le  obbligazioni  bancarie garantite di cui all'articolo 7-bis della legge 30  aprile  1999,  n. 130;
 b) prevedono il rimborso del capitale  in  un'unica  soluzione  a scadenza;
 c) sono a tasso fisso;
 d) sono denominati in euro;
@@ -68,26 +64,18 @@ f)  non  sono  titoli  strutturati  o  prodotti   complessi   ne' incorporano un
  
                                Limiti 
  
-1.  
+1.
 L'ammontare  delle  garanzie  concesse  e'  limitato  a  quanto strettamente   necessario
-per   ripristinare   la   capacita'    di finanziamento a medio-lungo termine delle banche beneficiarie.    
-2.  
-Per  singola  banca,  l'ammontare  massimo  complessivo   delle operazioni di cui al presente articolo non puo' eccedere, di norma, i fondi propri a fini di vigilanza. 
+per   ripristinare   la   capacita'    di finanziamento a medio-lungo termine dell'Emittente.;
+2.
+L'ammontare massimo  complessivo  delle  operazioni  di  cui  al presente articolo non puo' eccedere,  salvo  giustificati  motivi,  i fondi propri a fini di vigilanza, fermo restando il  limite  indicato all'articolo 1, comma 1. 
 
                                Art. 4 
  
                              Condizioni 
  
-1.  
-La  concessione  della  garanzia  di  cui  all'articolo  1   e' effettuata sulla base  della  valutazione  caso  per  caso  da  parte dell'Autorita' competente:
-a) del rispetto dei requisiti di fondi propri di cui all'articolo 92  del  Regolamento  (UE)  n.  575/2013,  su  base   individuale   e consolidata,  alla  data  dell'ultima   segnalazione   di   vigilanza disponibile;
-b)  dell'inesistenza   di   carenze   di   capitale   evidenziate nell'ambito  di  prove  di  stress  condotte  a  livello   nazionale, dell'Unione  europea  o  del  Meccanismo  di   vigilanza   unico,   o nell'ambito delle verifiche della qualita' degli attivi o di analoghi esercizi condotti dall'Autorita' competente o dall'Autorita' bancaria europea; per carenza di capitale si intende l'inadeguatezza attuale o prospettica dei fondi propri rispetto alla somma dei requisiti di cui alla lettera a) e degli eventuali requisiti  specifici  di  carattere inderogabile stabiliti dall'Autorita' competente.
-2. 
-La garanzia di cui all'articolo 1 puo' essere concessa  anche  a favore di una banca che non rispetta i requisiti di cui al  comma  1, lettera  a)  o  lettera  b),  ma  avente  comunque  patrimonio  netto positivo,  se  la  banca  ha  urgente  bisogno  di   sostegno   della liquidita', a seguito  della  positiva  decisione  della  Commissione europea sulla compatibilita' dell'intervento con il quadro  normativo dell'Unione europea in materia di aiuti  di  Stato  applicabile  alle misure  di  sostegno  alla  liquidita'  nel  contesto   della   crisi finanziaria.
-3. 
-La garanzia di cui all'articolo 1 puo' essere concessa a  favore di una banca in risoluzione o di un  ente-ponte  di  cui  al  decreto legislativo 16 novembre 2015, n. 180. In questi casi, nessun supporto di liquidita' garantito dallo Stato puo' essere fornito  prima  della positiva  decisione  della   Commissione   europea   sulla   notifica individuale.
-4. 
-Le banche che ricorrono agli interventi  previsti  dal  presente articolo devono svolgere la propria attivita' in modo da non  abusare del sostegno ricevuto ne' conseguire indebiti vantaggi per il tramite dello stesso, in particolare nelle comunicazioni commerciali  rivolte al pubblico. 
+1. 
+In relazione alla concessione della garanzia,  Banca  Carige  e' tenuta a svolgere la propria attivita' in modo  da  non  abusare  del sostegno ricevuto ne' conseguire indebiti  vantaggi  per  il  tramite dello stesso, in particolare nelle comunicazioni commerciali  rivolte al pubblico. 
 
                                Art. 5 
  
@@ -98,7 +86,7 @@ La garanzia dello Stato e' onerosa, incondizionata, irrevocabile e a prima richi
 2.
 La garanzia copre il capitale e gli interessi.
 3.
-Per  ciascuna  banca,  il  valore  nominale   degli   strumenti finanziari di cui all'articolo 2 con durata superiore ai 3  anni  sui quali puo' essere prestata la garanzia dello Stato, non puo' eccedere un terzo del valore nominale totale degli strumenti finanziari emessi dalla banca stessa e garantiti dallo Stato ai sensi dell'articolo 1.
+Il  valore  nominale  degli   strumenti   finanziari   di   cui all'articolo 2 con durata superiore ai 3 anni sui quali  puo'  essere prestata la garanzia dello Stato,  non  puo'  eccedere -  salvo  casi debitamente giustificati - un terzo del valore nominale totale  degli strumenti finanziari emessi dall'Emittente e garantiti dallo Stato ai sensi dell'articolo 1.
 4. 
 Non possono in alcun caso essere  assistite  da  garanzia  dello Stato le passivita' computabili nei fondi propri a fini di vigilanza. 
 
@@ -107,41 +95,34 @@ Non possono in alcun caso essere  assistite  da  garanzia  dello Stato le passiv
               Corrispettivo della garanzia dello Stato 
  
 1.
-Gli oneri economici a carico  delle  banche  beneficiarie  della garanzia sono determinati caso per caso sulla base della  valutazione del rischio di ciascuna operazione con le seguenti modalita':
+Gli oneri economici della garanzia sono determinati  sulla  base della  valutazione  del  rischio  dell'operazione  con  le   seguenti modalita':
 a) per passivita' con durata originaria di almeno dodici mesi, e' applicata una commissione pari alla somma dei seguenti elementi:
 
 1) una commissione di base di 0,40 punti percentuali; e
 
 2) una commissione basata sul rischio  eguale  al  prodotto  di 0,40 punti percentuali per  una  metrica  di  rischio  composta  come segue:
-la  meta'  del  rapporto  fra  la  mediana  degli  spread  sui contratti di Credit Default Swap (CDS) senior a cinque anni
-relativi alla banca o alla capogruppo nei  tre  anni  che  terminano  il  mese precedente  la  data  di  emissione  della  garanzia  e  la   mediana dell'indice iTraxx Europe Senior Financial
-a  5  anni  nello  stesso periodo di tre anni, piu' la meta' del rapporto fra la mediana  degli spread sui contratti CDS senior a 5 anni di tutti  gli  Stati  membri dell'Unione europea e la  mediana  degli  spread  sui  contratti  CDS senior
-a 5 anni dello Stato italiano  nel  medesimo  periodo  di  tre anni;
+la  meta'  del  rapporto  fra  la  mediana  degli  spread  sui contratti di CDS a cinque anni nei tre anni
+che  terminano  il  mese precedente la data di emissione  della  garanzia  registrati  per  un campione  di  grandi  banche,  definito  dalla  Commissione  europea, insediate in paesi dell'area euro appartenenti alla  medesima  classe di rating del debito senior e la mediana  dell'indice  iTraxx  Europe Senior Financial
+a 5 anni nello stesso periodo di tre anni,  piu'  la meta' del rapporto fra la mediana  degli  spread  sui  contratti  CDS senior a 5 anni di tutti gli Stati membri dell'Unione  europea  e  la mediana degli spread sui contratti CDS senior
+a 5  anni  dello  Stato italiano nel medesimo periodo di tre anni;
 b) per le obbligazioni bancarie garantite di cui  all'art.  7-bis della legge 30 aprile 1999, n. 130, la commissione,
-di cui  al  punto (ii) della lettera a), e' computata per la meta';
+di cui al  numero 2) della lettera a), e' computata per la meta';
 c) per passivita' con durata originaria inferiore a dodici  mesi, e' applicata una commissione pari alla somma dei seguenti elementi:
 
 1) una commissione di base di 0,50 punti percentuali; e
 
-2) una commissione basata  sul  rischio  eguale  a  0,20  punti percentuali
-nel caso di banche aventi un  rating  del  debito  senior unsecured di A+ o A ed equivalenti, a 0,30 punti percentuali nel caso di banche aventi  un  rating  di  A-  o  equivalente,  a  0,40  punti percentuali per banche aventi un rating inferiore a  A-  o  prive  di rating.
-2. 
-Per le banche per le quali non sono negoziati contratti di CDS o comunque non sono disponibili dati rappresentativi, la mediana  degli spread di cui al comma 1), lettera a), numero ii)  e'  calcolata  nel modo seguente:
-a) per banche che abbiano un rating rilasciato da agenzie esterne di valutazione del merito di credito (ECAI) riconosciute: la  mediana degli spread sui contratti di CDS a cinque  anni  nei  tre  anni  che terminano il mese precedente la  data  di  emissione  della  garanzia registrati  per  un  campione  di  grandi  banche,   definito   dalla Commissione europea, insediate in paesi dell'area  euro  appartenenti alla medesima classe di rating del debito senior unsecured;
-b) per banche prive  di  rating:  la  mediana  degli  spread  sui contratti CDS registrati nel medesimo  periodo  per  un  campione  di grandi banche, definito dalla Commissione europea, insediate in paesi dell'area dell'euro e  appartenenti  alla  piu'  bassa  categoria  di rating disponibile.
-3. 
+2) una commissione basata  sul  rischio  eguale  a  0,40  punti percentuali.
+2.
 In caso di difformita' delle valutazioni di  rating,  il  rating rilevante per il calcolo della commissione e'  quello  piu'  elevato.
 Nel caso in cui le valutazioni di rating disponibili  siano  piu'  di tre, il rating rilevante e' il secondo piu' elevato.
-4. 
+3.
 I rating di cui al presente articolo sono  quelli  assegnati  al momento della concessione della garanzia.
-5. 
-La commissione e'  applicata  in  ragione  d'anno  all'ammontare nominale degli strumenti finanziari
-emessi dalla banca per i quali e' concessa la garanzia.
-Le commissioni dovute dalle banche  interessate sono versate, in  rate  trimestrali  posticipate,  con  le  modalita' indicate dall'articolo  24,  comma  4.
-Le  relative  quietanze  sono trasmesse dalla banca interessata al Ministero dell'economia e  delle finanze,   Dipartimento   del   Tesoro,   di   seguito
+4.
+La commissione e'  applicata  in  ragione  d'anno  all'ammontare nominale degli strumenti  finanziari
+per  i  quali  e'  concessa  la garanzia. Le commissioni dovute sono  versate,  in  rate  trimestrali posticipate, con le modalita' indicate dall'articolo 24, comma 3.
+Le relative quietanze sono trasmesse al Ministero dell'economia e  delle finanze,   Dipartimento   del   Tesoro,   di   seguito
 denominato: «Dipartimento del Tesoro».
-6. 
-Il Ministro dell'economia e delle finanze, con decreto  adottato sentita  la  Banca  d'Italia,  puo'  variare,  tenuto   conto   delle condizioni di mercato,
+5. Il Ministro dell'economia e delle finanze, con decreto  adottato sentita  la  Banca  d'Italia,  puo'  variare,  tenuto   conto   delle condizioni di mercato,
 i  criteri  di  calcolo  e  la  misura  delle commissioni del presente  articolo  in  conformita'  delle  decisioni della Commissione europea. Le  variazioni  non  hanno  effetto  sulle operazioni gia' in essere. 
 
 
@@ -149,561 +130,489 @@ i  criteri  di  calcolo  e  la  misura  delle commissioni del presente  articolo
  
                               Procedura 
  
-1. 
-Le richieste di ammissione alla garanzia sono presentate
-dalle banche interessate nel medesimo giorno 
+1.
+La richiesta di ammissione alla garanzia e' presentate
+nel medesimo giorno 
 alla Banca d'Italia e al Dipartimento del Tesoro con modalita'
 che assicurano la rapidita' e la riservatezza della comunicazione
-2. 
-La richiesta e' presentata secondo un modello uniforme predisposto dal Dipartimento del Tesoro entro quindici giorni dall'entrata in vigore del presente decreto-legge, pubblicato sul sito internet del Dipartimento del Tesoro e della Banca d'Italia, indicando, tra l'altro, il fabbisogno di liquidita',
-anche prospettico, della banca, le operazioni di garanzia a cui la banca chiede di essere ammessa e quelle alle quali
-eventualmente sia gia' stata ammessa o per le quali abbia gia' fatto richiesta di ammissione.
-3. 
+indicando, tra l'altro, il fabbisogno di liquidita',
+anche prospettico, della banca, le operazioni di garanzia a cui l'Emittente chiede di essere ammesso e quelle alle quali
+eventualmente sia gia' stato ammesso o per le quali abbia gia' fatto richiesta di ammissione.
 La Banca d'Italia comunica tempestivamente al Dipartimento del Tesoro,
-di norma entro 3 giorni dalla presentazione della richiesta:
-a) le valutazioni dell'Autorita' competente sulla sussistenza delle condizioni di cui all'articolo 4, comma 1;
-b) nel caso di valutazione positiva della condizione sub a):
-1) la congruita' delle condizioni e dei volumi dell'intervento di liquidita' richiesto, alla luce delle dimensioni della banca e della sua patrimonializzazione;
+: ) la congruita' delle condizioni e dei volumi dell'intervento di liquidita' richiesto, alla luce delle dimensioni della banca e della sua patrimonializzazione;
 2) l'ammontare dei fondi propri a fini di vigilanza;
 3) l'ammontare della garanzia;
-4) la misura della commissione dovuta secondo quanto previsto dall'articolo 6.
-4. Sulla base degli elementi comunicati dalla Banca d'Italia, il Dipartimento del Tesoro provvede tempestivamente e di norma entro cinque giorni dalla ricezione della comunicazione della Banca d'Italia, in merito alla richiesta presentata dalla banca. Il Dipartimento del Tesoro comunica la decisione alla banca richiedente
+4) la misura della commissione dovuta secondo quanto previsto dall'articolo 6;
+5) l'attestazione da parte dell'Autorita' competente della solvenza di Banca Carige, ai sensi dell'articolo 18, paragrafo 4, lettera d), del Regolamento (UE) n. 806/2014.
+A seguito della comunicazione della Banca d'Italia, la richiesta di concessione della garanzia e' notificata alla Commissione europea. La garanzia puo' essere concessa solo a seguito della positiva decisione della Commissione europea sulla compatibilita' dell'intervento con il quadro normativo dell'Unione europea in materia di aiuti di Stato applicabile alle misure di sostegno alla liquidita' nel contesto della crisi finanziaria.
+Il Dipartimento del Tesoro comunica la decisione all'Emittente
 e alla Banca d'Italia, con modalita' che assicurano la rapidita' e la riservatezza della comunicazione.
-5. 
-Nel caso previsto dall'articolo 4, comma 2, ovvero qualora il valore nominale degli strumenti finanziari sui quali e' concessa la garanzia sia superiore a 500 milioni di euro e sia superiore al 5% del totale passivo della banca richiedente, la banca e' tenuta a presentare, entro due mesi dalla concessione della garanzia, un piano di ristrutturazione per confermare la redditivita' e la capacita' di raccolta della banca a lungo termine senza ricorso al sostegno pubblico. Il piano entro due mesi dalla concessione della garanzia e' sottoposto alla Commissione europea
-ai fini della valutazione della compatibilita' della misura con il quadro normativo dell'Unione europea in materia di aiuti di Stato.
-6.
-Nei casi indicati all'articolo 4, commi 2 e 3, e salvo quanto previsto dal comma 7, la banca richiedente non puo', per tutto il tempo in cui beneficia della garanzia:
+L'Emittente e' tenuto a presentare, entro due mesi dalla concessione della garanzia, un piano di ristrutturazione per confermare la redditivita' e la capacita' di raccolta della banca a lungo termine senza ricorso al sostegno pubblico. Il piano e' sottoposto alla Commissione europea
+Non e' richiesta la presentazione del piano di ristrutturazione quando le passivita' garantite sono rimborsate entro due mesi dalla concessione della garanzia.
+L'Emittente non puo', per tutto il tempo in cui beneficia della garanzia:
 a) distribuire dividendi;
 b) effettuare pagamenti discrezionali su strumenti di capitale aggiuntivo di classe 1 ai sensi del regolamento (UE) del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013 o coperti da clausola di grandfathering delle relative disposizioni transitorie;
 c) riacquistare propri strumenti di capitale primario di classe 1 o strumenti di cui alla lettera b), anche a seguito dell'esercizio di opzioni call, senza preventiva autorizzazione della Commissione europea;
-d) acquisire nuove partecipazioni, fatte salve le acquisizioni compatibili con la normativa europea in materia di aiuti di Stato, ivi comprese le acquisizioni per finalita' di recupero dei crediti e di temporanea assistenza finanziaria a imprese in difficolta'.
-7. 
-Se la garanzia e' limitata a strumenti finanziari con scadenza non superiore a due mesi, la garanzia e' concessa secondo la procedura di cui ai commi da 1 a 5 e non si applica il comma 6. 
+d) acquisire nuove partecipazioni, fatte salve le acquisizioni compatibili con la normativa europea in materia di aiuti di Stato, ivi comprese le acquisizioni per finalita' di recupero dei crediti e di temporanea assistenza finanziaria a imprese in difficolta'. 
 
                                Art. 8 
  
      Escussione della garanzia su passivita' di nuova emissione 
  
-1. 
-La banca che non sia in grado di adempiere all'obbligazione garantita presenta richiesta motivata di attivazione della garanzia al Dipartimento del Tesoro
+1.
+Qualora l'Emittente non sia in grado di adempiere all'obbligazione garantita presenta richiesta motivata di attivazione della garanzia al Dipartimento del Tesoro
 e alla Banca d'Italia, allegando la relativa documentazione e indicando gli strumenti finanziari o le obbligazioni contrattuali
-per i quali richiede l'attivazione e i relativi importi dovuti. La richiesta e' presentata, di norma, almeno trenta giorni prima della scadenza della passivita' garantita, salvo casi di motivata urgenza.
-2. 
+per i quali richiede l'attivazione e i relativi importi dovuti.
+La richiesta e' presentata, di norma, almeno trenta giorni prima della scadenza della passivita' garantita, salvo casi di motivata urgenza.
 Il Dipartimento del Tesoro accertata, sulla base delle valutazioni della Banca d'Italia,
-la fondatezza della richiesta, provvede tempestivamente e comunque entro il giorno antecedente alla scadenza dell'obbligazione alla corresponsione dell'importo dovuto dalla banca.
-3. 
-A seguito dell'attivazione della garanzia dello Stato, la banca e' tenuta a rimborsare all'erario le somme pagate dallo Stato maggiorate degli interessi al tasso legale fino al giorno del rimborso.
-La banca e' altresi' tenuta a presentare, entro e non oltre due mesi dalla richiesta di cui al comma 1,
+la fondatezza della richiesta, provvede tempestivamente e comunque entro il giorno antecedente alla scadenza dell'obbligazione alla corresponsione dell'importo dovuto dall'Emittente.
+A seguito dell'attivazione della garanzia dello Stato, l'Emittente e' tenuto a rimborsare all'erario le somme pagate dallo Stato maggiorate degli interessi al tasso legale fino al giorno del rimborso.
+L'Emittente e' altresi' tenuto a presentare, entro e non oltre due mesi dalla richiesta di cui al comma 1,
 un piano di ristrutturazione da sottoporre alla Commissione europea ai fini della valutazione della compatibilita' della misura
 con il quadro normativo dell'Unione europea in materia di aiuti di Stato.
-4. 
+Le somme corrisposte dallo Stato per onorare la garanzia prevista dal presente decreto sono vincolate per destinazione e non aggredibili da altri creditori dell'Emittente a diverso titolo.
 Il presente articolo non pregiudica la facolta' dei detentori delle passivita' garantite e dei titolari di diritti reali di garanzia sulle medesime di escutere la garanzia dello Stato ai sensi dell'articolo 5, comma 1. 
 
                                Art. 9 
  
-                     Relazioni alla Commissione 
- 
-1. 
-Il Ministero dell'economia e delle  finanze,  sulla  base  degli elementi forniti dalla  Banca  d'Italia,  presenta  alla  Commissione europea una relazione trimestrale sul funzionamento del  regime,  con cui  sono  fornite  informazioni  riguardo  ciascuna   emissione   di strumenti garantiti ai sensi del  presente  Capo,  l'ammontare  della commissione  effettivamente  applicata  con  riferimento  a  ciascuna emissione, le caratteristiche degli strumenti  finanziari  di  debito non garantiti emessi dalle banche beneficiarie. 
-
-                               Art. 10 
- 
                 Erogazione di liquidita' di emergenza 
  
 1.
-Il Ministro dell'economia e delle finanze puo' rilasciare, entro sei mesi  dall'entrata
-in  vigore  del  presente  decreto-legge,  
-la garanzia statale per integrare il collaterale, o  il  suo  valore  di realizzo, stanziato da banche italiane a  garanzia  di  finanziamenti erogati  dalla  Banca  d'Italia  
-per  fronteggiare  gravi  crisi   di liquidita' (erogazione di liquidita' di  emergenza),
-in  conformita' con gli schemi previsti dalla Banca centrale europea.
-2. 
+Il Ministro dell'economia e delle finanze puo' rilasciare, entro il 30 giugno 2019,
+la garanzia statale per  integrare  il  valore  di realizzo del collaterale stanziato da  Banca  Carige  a  garanzia  di finanziamenti erogati dalla Banca  d'Italia
+per  fronteggiare  gravi crisi di liquidita' (erogazione di liquidita' di emergenza - ELA),
+in conformita' con gli schemi previsti dalla Banca centrale europea.
+2.
 La garanzia statale e' irrevocabile e assistita dal beneficio di preventiva escussione, da parte della Banca d'Italia, delle  garanzie stanziate dalla banca per accedere al finanziamento ELA.
-3. 
-La garanzia di  cui  al  comma  1  puo'  essere  rilasciata  per operazioni di erogazione di liquidita'  di  emergenza  in  favore  di banche  che  rispettano,  secondo   la   valutazione   dell'Autorita' competente, le condizioni di cui all'articolo 4, commi 1, 2 e 3,  del presente decreto.
+Banca  Carige  a  seguito  della  erogazione  di  liquidita'  di emergenza 
+deve presentare un piano di ristrutturazione per confermare la redditivita' e la capacita' di  raccolta  a  lungo  termine  senza ricorso  al  sostegno   pubblico, 
+in   particolare   per   limitare l'affidamento sulla liquidita' fornita dalla Banca d'Italia.
 4.
-La banca  che  riceve  l'intervento  di  cui  al  comma  1  
-deve presentare  un  piano   di   ristrutturazione   per   confermare   la redditivita' e la capacita' di raccolta a lungo termine senza ricorso al sostegno pubblico, 
-in particolare per limitare l'affidamento sulla liquidita' fornita dalla Banca centrale.
-5. 
-Per quanto non diversamente previsto dal presente articolo, alla garanzia  statale  di  cui  al  comma  1  si  applicano,  in   quanto compatibili, gli articoli 1, 3, 4, 5, comma 2, 6, 7, 8, commi 3 e 4. 
+Per quanto non diversamente previsto dal presente articolo, alla garanzia  statale  di  cui  al  comma  1  si  applicano,  in   quanto compatibili, gli articoli 1, 3, 5, comma 2, 6, 7, 8, commi 3 e 5. 
 
-                               Art. 11 
+                               Art. 10 
  
                   Escussione della garanzia statale 
              sull'erogazione di liquidita' di emergenza 
  
 1. 
-In caso di inadempimento della banca alle proprie obbligazioni di pagamento
+In caso di inadempimento dell'Emittente alle proprie obbligazioni di pagamento
 nei confronti della Banca d'Italia rivenienti dal contratto di finanziamento ELA,
 la Banca d'Italia, in esito all'escussione del collaterale
 stanziato a copertura del finanziamento e nei limiti dell'importo garantito,
 presenta richiesta di attivazione della garanzia statale al Dipartimento del Tesoro,
 allegando la documentazione relativa all'escussione del collaterale e indicando gli importi residuali dovuti.
-2. 
-Il Dipartimento del Tesoro, accertata la fondatezza della richiesta, provvede tempestivamente e comunque entro trenta giorni alla corresponsione dell'importo dovuto dalla banca.  
+2.
+Il Dipartimento del Tesoro, accertata la fondatezza della richiesta, provvede tempestivamente e comunque entro trenta giorni alla corresponsione dell'importo dovuto dall'Emittente. 
 
-                               Art. 12 
- 
+                               Art. 11 
+
                      Disposizioni di attuazione 
  
-Con decreto del Ministro dell'economia e delle finanze, sentita la Banca d'Italia, sono adottate misure di attuazione del presente Capo I. 
+Con decreto del Ministro dell'economia e delle finanze, sentita la Banca d'Italia, possono essere adottate misure di attuazione del presente Capo I.                                  
 
-                               Art. 13 
- 
-                       Intervento dello Stato 
- 
-  1. 
-Il presente Capo II disciplina modalita' e condizioni dell'intervento dello Stato a sostegno delle banche e dei gruppi bancari italiani.
-2. 
+                               Art. 12 
+
+                       Intervento dello Stato     
+  1.
 Al fine di evitare o porre rimedio a una grave perturbazione dell'economia e preservare
-la stabilita' finanziaria, ai sensi dell'articolo 18 del d.lgs. 16 novembre 2015, n. 180 e dell'articolo 18, paragrafo 4, lettera d),
-del regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio del 15 luglio 2014,
-il Ministero dell'economia e delle finanze (di seguito il «Ministero»)
-e' autorizzato a sottoscrivere o acquistare, entro il 31 dicembre 2017, anche in deroga alle norme di contabilita' di Stato,
-azioni emesse da banche italiane, appartenenti o meno a un gruppo bancario, o da societa' italiane capogruppo di gruppi bancari (di seguito l'«Emittente»),
+la stabilita' finanziaria, ai sensi dell'articolo 18 del decreto legislativo 16 novembre 2015, n. 180 e dell'articolo 18, paragrafo 4, lettera d),
+del regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio del 15 luglio 2014, il Ministero dell'economia e delle finanze (di seguito il «Ministero»)
+e' autorizzato a sottoscrivere, entro il 30 settembre 2019, anche in deroga alle norme di contabilita' di Stato,
+azioni emesse da Banca Carige (di seguito l'«Emittente»),
 secondo le modalita' e alle condizioni stabilite dal presente Capo II.
-3. 
+2.
 Nel presente Capo II per Autorita' competente si intende la Banca d'Italia
 o la Banca centrale europea secondo le modalita' e nei casi previsti dal regolamento (UE)
 del Consiglio n. 1024 del 15 ottobre 2013. 
 
-                               Art. 14 
+                               Art. 13 
  
                Programma di rafforzamento patrimoniale 
  
-1. 
-L'intervento dello Stato ai sensi dell'articolo 13
-puo' essere richiesto da un Emittente che - in relazione a una prova di stress basata su uno scenario avverso condotta a livello nazionale, dell'Unione europea o del Meccanismo di vigilanza unico - ha esigenza di rafforzare il proprio patrimonio.
-2. 
-Per poter chiedere l'intervento dello Stato ai sensi dell'articolo 13 l'Emittente deve aver precedentemente sottoposto all'Autorita' competente un programma di rafforzamento patrimoniale (il «Programma»),
-indicante l'entita' del fabbisogno di capitale necessario, 
-le misure che l'Emittente intende intraprendere per conseguire il rafforzamento,
+1.
+Per poter chiedere l'intervento dello Stato ai sensi dell'articolo 12
+l'Emittente deve aver precedentemente sottoposto all'Autorita' competente un programma di rafforzamento patrimoniale (il «Programma»),
+indicante l'entita'
+del fabbisogno di capitale necessario, 
+le misure che l'Emittente intende intraprendere per conseguire il rafforzamento, 
 nonche' il termine per la realizzazione del Programma.
-3. 
-L'Autorita' competente valuta l'adeguatezza del Programma a conseguire, anche su base consolidata, l'obiettivo di rafforzamento patrimoniale di cui al comma 1 e ne informa l'Emittente e il Ministero.
-4. 
-L'Emittente informa al piu' presto l'Autorita' competente sugli esiti delle misure adottate. L'Autorita' competente ne informa il Ministero.
-5. 
+2. 
 Se l'attuazione del Programma risulta insufficiente a conseguire l'obiettivo di rafforzamento patrimoniale
-di cui al comma 1, l'Emittente puo' presentare la richiesta di intervento dello Stato secondo la procedura stabilita dall'articolo 15. 
+l'Emittente puo' presentare la richiesta di intervento dello Stato secondo la procedura stabilita dall'articolo 14. 
 Tale richiesta puo' essere presentata dall'Emittente gia' ad esito della valutazione del Programma
-svolta ai sensi del comma 3, quando l'Autorita' competente abbia ritenuto che lo stesso non sia sufficiente a conseguire gli obiettivi di rafforzamento patrimoniale, 
+da parte dell'Autorita' competente quando la stessa abbia ritenuto che lo stesso non sia sufficiente a conseguire gli obiettivi di rafforzamento patrimoniale, 
 ovvero durante l'attuazione del Programma stesso,
-se questa risulta inidonea ad assicurare il conseguimento degli obiettivi di rafforzamento patrimoniale. 
+se questa risulta inidonea ad assicurare il conseguimento degli obiettivi di rafforzamento patrimoniale. In connessione con la richiesta di intervento dello Stato,
+l'Autorita' competente informa il Ministero delle proprie valutazioni sul Programma e sull'attuazione dello stesso. 
 
-                               Art. 15 
+                               Art. 14 
  
                  Richiesta di intervento dello Stato 
  
 1. 
-L'Emittente che intende fare ricorso all'intervento dello Stato 
-trasmette al Ministero e all'Autorita' competente, e alla Banca d'Italia qualora non sia l'Autorita' competente, una richiesta contenente:
+Qualora l'Emittente intenda fare ricorso all'intervento dello Stato 
+trasmette al Ministero, all'Autorita' competente, e alla Banca d'Italia, una richiesta contenente:
 a) 
 l'indicazione dell'importo della sottoscrizione delle azioni dell'Emittente chiesta al Ministero;
 b) 
 l'indicazione dell'entita' del patrimonio netto contabile,
-individuale o consolidato a seconda dei casi, alla data della richiesta e l'entita' del fabbisogno di capitale regolamentare che residua, se del caso,
+individuale e consolidato, alla data della richiesta e l'entita' del fabbisogno di capitale regolamentare da colmare,
 tenendo conto dell'attuazione del Programma;
 c) 
-l'indicazione degli strumenti e prestiti di cui all'articolo 22, comma 2, 
-e del loro valore contabile, accompagnata dalla valutazione,
-predisposta da un esperto indipendente,
-del valore economico ad essi attribuibile al fine della determinazione del tasso di conversione, in ipotesi di continuita' aziendale;
+l'attestazione di impegni di cui all'articolo 16;
 d) 
-una relazione di stima, predisposta da un esperto indipendente,
-dell'effettivo valore delle attivita' e passivita' dell'Emittente senza considerare alcuna forma di supporto pubblico e ipotizzando che l'Emittente sia sottoposto a liquidazione
-alla data di presentazione della richiesta di intervento dello Stato, nonche' di quanto in tale caso
-verrebbe corrisposto pro quota ai titolari degli strumenti e prestiti di cui all'articolo 22, comma 2;
-e) 
-l'attestazione di impegni di cui all'articolo 17;
-f) 
 il piano di ristrutturazione (il «Piano»), predisposto in conformita' con la disciplina dell'Unione europea in materia di aiuti di Stato applicabile alle misure di ricapitalizzazione delle banche nel contesto della crisi finanziaria.
 2. 
+La Banca d'Italia acquisisce l'asseverazione, da parte di esperti indipendenti da essa nominati a spese dell'Emittente, della valutazione di cui all'articolo 17, comma 4.
+3. 
+Gli esperti indipendenti previsti dal comma 2 non devono avere in corso ne' devono avere intrattenuto negli ultimi tre anni relazioni di affari, professionali o finanziarie con l'Emittente tali da comprometterne l'indipendenza.
+4. 
+L'Emittente presenta inoltre:
+a) 
+l'indicazione degli strumenti e prestiti di cui all'articolo 20, comma 2, 
+e del loro valore contabile, accompagnata dalla valutazione,
+predisposta da un esperto indipendente ai sensi del comma 3,
+del valore economico ad essi attribuibile al fine della determinazione del tasso di conversione, in ipotesi di continuita' aziendale;
+b) 
+una relazione di stima, predisposta da un esperto indipendente
+ai sensi del comma 3, dell'effettivo valore delle attivita' e passivita' dell'Emittente senza considerare alcuna forma di supporto pubblico e ipotizzando che l'Emittente sia sottoposto a liquidazione
+alla data di presentazione della richiesta di intervento dello Stato, nonche' di quanto in tale caso
+verrebbe corrisposto pro quota ai titolari degli strumenti e prestiti di cui all'articolo 20, comma 2.
+5. 
 La Banca d'Italia acquisisce l'asseverazione, da parte di esperti indipendenti
-da essa nominati, a spese dell'Emittente:
+di cui ai commi 2 e 3:
 a) 
 del valore economico risultante dalla valutazione trasmessa dall'Emittente
-ai sensi del comma 1, lettera c);
+ai sensi del comma 4, lettera a);
 b) 
-della stima trasmessa ai sensi del comma 1, lettera d);
-c) 
-della valutazione di cui all'articolo 18, comma 4.
-3. 
-Gli esperti indipendenti previsti dai commi 1, lettere c) e d), e 2, non devono avere in corso ne' devono avere intrattenuto negli ultimi due anni relazioni di affari, professionali o finanziarie con l'Emittente tali da comprometterne l'indipendenza. 
+della stima trasmessa ai sensi del comma 4, lettera b).
 
-                               Art. 16 
+                              Art. 15 
  
                 Valutazioni dell'Autorita' competente 
  
 1. 
-Entro sessanta giorni dalla ricezione della richiesta di cui all'articolo 15,
-l'Autorita' competente comunica al Ministero e all'Emittente il fabbisogno di capitale regolamentare dell'Emittente.
+Entro sessanta giorni dalla ricezione della richiesta di cui all'articolo 14,
+l'Autorita' competente comunica al Ministero e all'Emittente il fabbisogno di capitale regolamentare
+riferito alla carenza di capitale emersa dalle prove di stress rilevanti.
 2. 
 L'Autorita' competente puo' chiedere all'Emittente chiarimenti e integrazioni ed effettuare accertamenti. In tali casi il termine di cui al comma 1 e' sospeso. 
 
-                               Art. 17 
+                               Art. 16 
  
-       Rispetto della disciplina in materia di aiuti di Stato 
+       Rispetto della disciplina in materia di aiuti di Stato
  
 1.  
-La richiesta di cui all'articolo 15 e' corredata della dichiarazione con cui l'Emittente assume, dal momento della domanda e fino
+La richiesta di cui all'articolo 14 e' corredata della dichiarazione con cui l'Emittente assume, dal momento della domanda e fino
 a quando la sottoscrizione delle azioni da parte del Ministero non sia stata perfezionata,
 gli impegni previsti dal paragrafo 47 della comunicazione sul settore bancario
 della Commissione europea.
 2. 
 Fermi restando i poteri dell'Autorita' competente,
-la sottoscrizione puo' essere condizionata
-alla revoca o sostituzione dei consiglieri esecutivi e del direttore generale dell'Emittente, anche in conformita' con la disciplina dell'Unione europea sugli aiuti di Stato. 
+la sottoscrizione puo' essere subordinata,
+in conformita' alla decisione della Commissione europea sulla compatibilita' dell'intervento con il quadro normativo
+ell'Unione europea in materia di aiuti di Stato applicabile alle misure di ricapitalizzazione delle banche nel contesto della crisi finanziaria, alle seguenti condizioni:
+a) revoca o sostituzione dei consiglieri esecutivi e del direttore generale dell'Emittente;
+b) limitazione della retribuzione complessiva dei membri del consiglio di amministrazione e dell'alta dirigenza dell'Emittente. 
 
-                               Art. 18 
+                               Art. 17 
  
                     Realizzazione dell'intervento 
  
 1. 
-A seguito della comunicazione ai sensi dell'articolo 16
+A seguito della comunicazione ai sensi dell'articolo 15
 da parte dell'Autorita' competente, il Piano e le sue eventuali successive variazioni sono notificati alla Commissione europea.
 2. 
-A seguito della positiva decisione della Commissione europea sulla compatibilita' dell'intervento con il quadro normativo dell'Unione europea in materia di aiuti di Stato
+A seguito della positiva decisione della Commissione europea sulla compatibilita'
+dell'intervento con il quadro normativo dell'Unione europea in materia di aiuti di Stato
 applicabile alle misure di ricapitalizzazione delle banche nel contesto della crisi finanziaria,
 con decreto del Ministro dell'economia e delle finanze,
 da pubblicare sulla Gazzetta Ufficiale, adottato su proposta della Banca d'Italia,
-si dispone l'applicazione delle misure di ripartizione degli oneri in conformita' con quanto previsto dall'articolo 22.
+si dispone l'applicazione delle misure di ripartizione degli oneri secondo quanto previsto dall'articolo 20
+e l'aumento del capitale dell'Emittente a servizio delle misure stesse.
 3. 
 Con decreto del Ministro dell'economia e delle finanze, adottato sentita la Banca d'Italia, si dispone altresi':
-a) ove necessario, l'aumento del capitale dell'Emittente a servizio della sottoscrizione delle azioni da parte del Ministero,
+a) l'aumento del capitale dell'Emittente a servizio della sottoscrizione delle azioni da parte del Ministero,
 derogando anche all'articolo 2441 del codice civile
 e sempre che esso non sia stato deliberato dall'Emittente;
-b) il prezzo di sottoscrizione o di acquisto nonche' ogni altro elemento necessario alla gestione
-della sottoscrizione o dell'acquisto, comprese le fasi successive;
-c) la sottoscrizione o l'acquisto delle azioni dell'Emittente.
+b) il prezzo di sottoscrizione nonche' ogni altro elemento necessario alla gestione
+della sottoscrizione, comprese le fasi successive;
+c) la sottoscrizione delle azioni dell'Emittente.
 4. 
 Ai fini delle determinazioni previste dal comma 2, su richiesta del Ministero e nel termine da esso indicato, l'Emittente trasmette al Ministero e alla Banca d'Italia l'indicazione
-sulla base di una valutazione predisposta da un soggetto in possesso dei requisiti di indipendenza previsti dall'articolo 15, comma 3,
-del valore delle azioni necessario per calcolare, in conformita' con l'allegato, 
-il prezzo delle azioni da attribuire ai titolari degli strumenti e prestiti indicati all'articolo 22, comma 2
-se la banca e' quotata e' indicata la media dei prezzi di chiusura delle azioni ordinarie dell'Emittente nelle trenta sedute antecedenti la data indicata dal Ministero avendo riguardo alla data di prevista emanazione del decreto di cui al comma 2.
+del valore delle azioni necessario per calcolare, in conformita' con l'Allegato,
+il prezzo delle azioni da attribuire ai titolari degli strumenti e prestiti di indicati all'articolo 20, comma 2
+Il valore delle azioni e' calcolato da un soggetto in possesso dei requisiti di indipendenza previsti dall'articolo 14, comma 3, ed e' determinato in base all'andamento delle quotazioni dei trenta giorni di mercato antecedenti la data indicata dal Ministero avendo riguardo alla data di prevista emanazione del decreto di cui al comma 3; 
+nel caso di sospensione della quotazione per periodi complessivamente superiori a quindici giorni nel periodo di riferimento, 
+il valore delle azioni e' il minore tra il prezzo di riferimento medio degli ultimi trenta giorni di mercato nei quali l'azione e' stata negoziata e quello determinato in base alla consistenza patrimoniale della societa', 
+alle sue prospettive reddituali, all'andamento del rapporto tra valore di mercato e valore contabile delle banche quotate e tenuto conto delle perdite connesse a eventuali operazioni straordinarie, ivi incluse quelle di cessione di attivi, 
+da perfezionare in connessione con l'intervento dello Stato di cui al presente Capo.
 5. 
-I decreti indicati ai commi 2 e 3 sono adottati se:
+I decreti indicato ai commi 2 sono adottati se:
 a) l'Emittente non versa in una delle situazioni di cui all'articolo 17, comma 2, lettere a), b), c), d) o e),
 del decreto legislativo 16 novembre 2015, n. 180,
-o di cui all'articolo 18, paragrafo 4, lettere a), b) o c), del regolamento (UE) n. 806/2014; e
-b) non ricorrono i presupposti per la riduzione o la conversione ai sensi del Capo II del Titolo IV del decreto legislativo 16 novembre 2015, n. 180,
-ne' quelli previsti dall'articolo 21, paragrafo 1, del regolamento (UE) n. 806/2014.
+o di cui all'articolo 18, paragrafo 4, lettere a), b) o c), del regolamento (UE) n. 806/2014;
+b) salvo quanto previsto dal comma 8 per le azioni di risparmio, non ricorrono i presupposti per la riduzione o la conversione ai sensi del Capo II del Titolo IV del decreto legislativo 16 novembre 2015, n. 180,
+ne' quelli previsti dall'articolo 21, paragrafo 1, del regolamento (UE) n. 806/2014; in caso contrario, si procede ai sensi dell'articolo 20.
 6. 
 Le situazioni e i presupposti indicati al comma 5 si assumono non sussistenti quando non consti un accertamento in tal senso dell'Autorita' competente.
 7. 
-I decreti di cui ai commi 2 e 3 sono sottoposti al controllo preventivo di legittimita' della Corte dei conti e sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana.
+I decreti indicato ai commi 2 e 3 sono sottoposti al controllo preventivo di legittimita' della Corte dei conti e sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana.
 8. 
-Il consiglio di amministrazione o il consiglio di gestione provvedono ad adeguare conseguentemente lo statuto dell'Emittente. Si applica l'articolo 2443, comma 3, del codice civile. 
+Alla data di pubblicazione nella Gazzetta Ufficiale del decreto indicato nel comma 2, le azioni di risparmio emesse sono convertite in azioni ordinarie
+in ragione di una azione ordinaria per ogni azione di risparmio, senza pagamento di alcun conguaglio.
+9. 
+Il consiglio di amministrazione provvede ad adeguare conseguentemente lo statuto dell'Emittente. Si applica l'articolo 2443, comma 3, del codice civile. 
 
-                               Art. 19 
+                               Art. 18 
  
                     Caratteristiche delle azioni 
  
 1. 
-Salvo quanto previsto dal comma 2, il Ministero sottoscrive azioni di nuova emissione.
+Il Ministero sottoscrive azioni di nuova emissione.
 Le azioni emesse dall'Emittente per la sottoscrizione da parte del Ministero sono azioni ordinarie che attribuiscono il diritto di voto non limitato ne' condizionato nell'assemblea ordinaria e nell'assemblea straordinaria,
 non privilegiate nella distribuzione degli utili ne' postergate nell'attribuzione delle perdite.
 2. 
-Entro sessanta giorni dalla data di pubblicazione del decreto previsto dall'articolo 18, comma 2, il Ministero, in caso di transazione tra l'Emittente o una societa' del suo gruppo e gli azionisti divenuti tali a seguito dell'applicazione delle misure di ripartizione degli oneri di cui all'articolo 22, comma 2, puo' acquistare le azioni rivenienti dall'applicazione di dette misure, se ricorrono cumulativamente le seguenti condizioni:
-a) la transazione e' volta a porre fine o prevenire una lite avente a oggetto la commercializzazione degli strumenti coinvolti nell'applicazione delle misure di ripartizione degli oneri di cui all'articolo 22, comma 2,
-limitatamente a quelli per la cui offerta sussisteva obbligo di pubblicare un prospetto e con esclusione di quelli acquistati da controparti qualificate ai sensi dell'articolo 6, comma 2-quater, lettera d), del decreto legislativo 24 febbraio 1998, n. 58,
-o clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies, del medesimo decreto legislativo, diversi dall'Emittente o societa' del suo gruppo, in assenza di prestazione di servizi o attivita' di investimento da parte dell'Emittente o da societa' del suo gruppo;
-b) gli azionisti non sono controparti qualificate ai sensi dell'articolo 6, comma 2-quater, lettera d), del decreto legislativo 24 febbraio 1998, n. 58, ne' clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies, del medesimo decreto legislativo;
-c) la transazione prevede che l'Emittente acquisti dagli azionisti in nome e per conto del Ministero le azioni rivenienti dall'applicazione delle misure di ripartizione degli oneri di cui all'articolo 22, comma 2, e che questi ricevano dall'Emittente, come corrispettivo, obbligazioni non subordinate emesse alla pari dall'Emittente o da societa' del suo gruppo, per un valore nominale pari al prezzo corrisposto dal Ministero ai sensi della lettera d); tali obbligazioni avranno durata comparabile alla vita residua degli strumenti e prestiti oggetto di conversione e rendimento in linea con quello delle obbligazioni non subordinate emesse dall'Emittente aventi analoghe caratteristiche rilevato sul mercato secondario nel periodo intercorrente tra la data di pubblicazione del decreto di cui all'articolo 18, comma 2, e quella di acquisto delle azioni ai sensi del presente comma;
-d) il prezzo per l'acquisto delle azioni da parte del Ministero e' quello indicato al comma 4 ed e' corrisposto all'Emittente in relazione alle obbligazioni da questo assegnate agli azionisti;
-e) la transazione prevede la rinuncia dell'azionista a far valere ogni altra pretesa relativa alla commercializzazione degli strumenti finanziari convertiti, in applicazione delle misure di ripartizione degli oneri di cui all'articolo 23, comma 2, nelle azioni acquistate dal Ministero ai sensi del presente comma.
-3. 
-Le azioni dell'Emittente offerte in sottoscrizione al Ministero rispettano le condizioni previste dall'articolo 31 del regolamento (UE
+Le azioni dell'Emittente offerte in sottoscrizione al Ministero rispettano le condizioni previste dall'articolo 31 del regolamento (UE)
 del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013.
-4. 
+3. 
 Il prezzo delle azioni offerte in sottoscrizione al Ministero e' determinato secondo i criteri e la metodologia indicati nell'allegato.
-5. 
-Le spese di sottoscrizione e acquisto 
+4. 
+Le spese di sottoscrizione 
 delle azioni da parte del Ministero sono interamente a carico dell'Emittente. 
 
-                               Art. 20 
+                               Art. 19 
  
                     Effetti della sottoscrizione 
  
 1. 
-All'assunzione di partecipazioni nell'Emittente da parte del Ministero, conseguente alla sottoscrizione o all'acquisto di azioni disposta ai sensi del presente Capo, non si applicano
-a) gli articoli 2527 e 2528 del codice civile;
-b) gli articoli 106, comma 1, e 109, comma 1, del decreto legislativo 24 febbraio 1998, n. 58;
-c) eventuali limiti di possesso azionario previsti da disposizioni legislative o statutarie, ivi compresi i limiti previsti dall'articolo 30 del Testo unico bancario. 
+All'assunzione di partecipazioni nell'Emittente da parte del Ministero, conseguente alla sottoscrizione di azioni disposta ai sensi del presente Capo, non si applicano
+gli articoli 106, comma 1, 108 e 109, comma 1, del decreto legislativo 24 febbraio 1998, n. 58. 
 
-                               Art. 21 
+                               Art. 20 
  
-               Banche costituite in forma cooperativa 
- 
-1. Nelle assemblee delle banche costituite in forma cooperativa, in cui il Ministero esercita il diritto di voto inerente alle azioni sottoscritte a seguito delle operazioni previste dal presente decreto-legge, si applicano gli articoli 2351, comma 1, 2368, 2369 e 2372 del codice civile, in luogo degli articoli 2538, commi 2 e 5, e 2539 del codice civile, nonche' degli articoli 30, comma 1, e 31, comma 2, primo periodo, del Testo unico bancario. Le quote di capitale sociale richieste per la costituzione e per le deliberazioni dell'assemblea sono quelle previste dalla legge e non si applica l'articolo 137, comma 4, del decreto legislativo 24 febbraio 1998, n. 58. 
-
-                               Art. 22 
- 
-              Ripartizione degli oneri fra i creditori 
+                      Condivisione degli oneri 
  
 1. 
-Salvo quanto previsto al comma 7,
-la sottoscrizione delle azioni dell'Emittente ai sensi dell'articolo 19 e' effettuata dal Ministro dell'economia e delle finanze dopo l'applicazione delle misure di ripartizione degli oneri secondo quanto previsto dal presente articolo, con l'obiettivo di contenere il ricorso ai fondi pubblici.
+Salvo quanto previsto al comma 5,
+la sottoscrizione delle azioni dell'Emittente ai sensi dell'articolo 17, comma 3, e' effettuata dal Ministro dell'economia e delle finanze dopo l'applicazione delle misure di ripartizione degli oneri secondo quanto previsto dal presente articolo, con l'obiettivo di contenere il ricorso ai fondi pubblici.
 2. 
-Con il decreto indicato dall'articolo 18, comma 2, sono disposte le misure di ripartizione degli oneri secondo l'ordine di seguito indicato e l'aumento del capitale dell'Emittente a servizio delle misure stesse:
+Con il decreto indicato dall'articolo 17, comma 2, si dispone l'applicazione delle misure di ripartizione degli oneri secondo l'ordine di seguito indicato:
 a) conversione, in tutto o in parte, in azioni ordinarie di nuova emissione computabili nel capitale primario di classe 1 dell'Emittente
-aventi le caratteristiche indicate nell'articolo 20, comma 1, 
+aventi le caratteristiche indicate nell'articolo 18, comma 1, 
 degli strumenti di capitale aggiuntivo di classe 1 ai sensi del regolamento (UE) del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013 (Additional Tier 1),
 inclusi gli strumenti qualificati come strumenti di capitale aggiuntivo di classe 1 ai sensi della clausola di grandfathering del citato regolamento
 e relative disposizioni di attuazione, nonche' delle altre passivita' dell'Emittente aventi un grado di subordinazione nella gerarchia concorsuale uguale o superiore;
 b) ove la misura di cui alla lettera a) non sia sufficiente, conversione,
-in tutto o in parte, in azioni ordinarie di nuova emissione computabili nel capitale primario di classe 1 dell'Emittente aventi le caratteristiche indicate nell'articolo 20, comma 1,
+in tutto o in parte, in azioni ordinarie di nuova emissione computabili nel capitale primario di classe 1 dell'Emittente aventi le caratteristiche indicate nell'articolo 18, comma 1,
 degli strumenti e prestiti computabili come elementi di classe 2 ai sensi del regolamento (UE) del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013 (Tier 2),
 inclusi gli strumenti e i prestiti qualificati come elementi di classe 2 ai sensi della clausola di grandfathering del citato regolamento e relative disposizioni di attuazione, nonche' degli altri strumenti e prestiti aventi
 lo stesso grado di subordinazione nella gerarchia concorsuale;
 c) ove la misura di cui alla lettera b) non sia sufficiente, conversione, in tutto o in parte,
-in azioni ordinarie di nuova emissione computabili nel capitale primario di classe 1 dell'Emittente aventi le caratteristiche indicate nell'articolo 19, comma 1,
+in azioni ordinarie di nuova emissione computabili nel capitale primario di classe 1 dell'Emittente aventi le caratteristiche indicate nell'articolo 18, comma 1,
 degli strumenti e dei prestiti, diversi da quelli indicati dalle lettere a) e b), il cui diritto al rimborso del capitale e' contrattualmente subordinato al soddisfacimento dei diritti di tutti i creditori non subordinati dell'Emittente.
 3. 
-L'adozione delle misure previste dal comma 2 comporta l'inefficacia delle garanzie rilasciate dall'Emittente se ricorrono cumulativamente le seguenti condizioni:
-a) la garanzia ha a oggetto passivita' emesse da soggetti direttamente o indirettamente controllati dall'Emittente;
-b) le passivita' garantite indicate alla lettera a) sono state emesse nell'ambito di un'operazione unitaria di finanziamento dell'Emittente
-che include un finanziamento all'Emittente da parte di un soggetto da questo controllato;
-c) alle passivita' dell'Emittente derivanti dal finanziamento concessogli di cui alla lettera b), e' applicata la misura di cui al comma 2.
-4. 
-L'adozione delle misure previste dal comma 2 comporta, altresi', l'inefficacia degli accordi contrattuali o di altro tipo conclusi dall'Emittente aventi ad oggetto proprie azioni o strumenti di capitale e relativi ai diritti patrimoniali spettanti sugli stessi.
-5. 
 Le misure di cui al comma 2 sono disposte:
 a) nei confronti di tutte le passivita' indicate al comma 2, ove possibile in base alla legge a esse applicabile, secondo la gerarchia applicabile in sede concorsuale;
 b) in modo uniforme nei confronti di tutti i creditori dell'Emittente che siano titolari di passivita' assoggettabili alle misure del comma 2
-in base alla legge loro applicabile e appartenenti alla stessa categoria, salvo quanto previsto al comma 7, e proporzionalmente al valore nominale dei rispettivi strumenti finanziari o crediti;
-c) 
-in misura tale da assicurare che nessun titolare degli strumenti e prestiti di cui al comma 2, riceva, tenuto conto dell'incremento patrimoniale conseguito dall'Emittente per effetto dell'intervento dello Stato, un trattamento peggiore rispetto a quello che riceverebbe in caso di liquidazione dell'Emittente, assumendo che essa avvenga senza supporto pubblico;
+in base alla legge loro applicabile e appartenenti alla stessa categoria, salvo quanto previsto al comma 5, e proporzionalmente al valore nominale dei rispettivi strumenti finanziari o crediti;
+c)
+misura tale da assicurare che nessun titolare degli strumenti e prestiti di cui al comma 2, riceva, tenuto conto dell'incremento patrimoniale conseguito dall'Emittente per effetto dell'intervento dello Stato, un trattamento peggiore rispetto a quello che riceverebbe in caso di liquidazione dell'Emittente, assumendo che essa avvenga senza supporto pubblico;
 d) determinando il numero di azioni da attribuire in sede di conversione sulla base della metodologia indicata nell'Allegato, fermo restando il rispetto di quanto previsto dalle lettere a), b) e c);
 e) a condizione che l'Emittente abbia provveduto a convertire in azioni o altri strumenti di capitale primario di classe 1 gli strumenti finanziari convertibili eventualmente emessi, nel rispetto delle condizioni previste dai relativi contratti;
-a tal fine, l'Emittente include nella richiesta di cui all'articolo 16 l'attestazione di aver provveduto a convertire in azioni o altri strumenti di capitale primario di classe 1 gli strumenti finanziari convertibili eventualmente emessi,
+a tal fine, l'Emittente presenta apposita attestazione di aver provveduto a convertire in azioni o altri strumenti di capitale primario di classe 1 gli strumenti finanziari convertibili eventualmente emessi,
 nel rispetto delle condizioni previste dai relativi contratti.
-6. 
-La condizione di cui al comma 5, lettera c), e' verificata quando, tenuto conto della stima prevista dall'articolo 15, comma 1, lettera d),
-il valore delle azioni assegnate in conversione e' almeno pari a quanto verrebbe corrisposto ai titolari degli strumenti di capitale aggiuntivo, degli elementi di classe 2 e degli altri strumenti e prestiti subordinati di cui al comma 
+4. 
+La condizione di cui al comma 3, lettera c), e' verificata quando, tenuto conto della stima prevista dall'articolo 14, comma 4, lettera b), 
+il valore delle azioni assegnate in conversione e' almeno pari a quanto verrebbe corrisposto ai titolari degli strumenti di capitale aggiuntivo, degli elementi di classe 2 e degli altri strumenti e prestiti subordinati di cui al comma 2
 nel caso in cui l'Emittente venisse sottoposto a liquidazione alla data di presentazione della richiesta di intervento dello Stato.
-7. 
-Non si da' luogo, del tutto o in parte, all'applicazione delle misure previste nel presente articolo quando la Commissione europea con la decisione di cui all'articolo 18,
+5. 
+Non si da' luogo, in tutto o in parte, all'applicazione delle misure previste nel presente articolo quando la Commissione europea con la decisione di cui all'articolo 17,
 comma 2, abbia stabilito che la loro adozione puo' mettere in pericolo la stabilita' finanziaria
-o determinare risultati sproporzionati. In caso di esclusione parziale dall'applicazione delle misure previste nel presente articolo, il decreto di cui all'articolo 18, comma 2, indica
-gli strumenti o le classi di strumenti esclusi, fermo il rispetto dei criteri di cui al comma 5, lettere a), c) e d). 
-La valutazione sull'applicabilita' delle ipotesi di esclusione indicate nel presente comma e' compiuta, per ciascun intervento, dalla Commissione europea.
-8. 
+o determinare risultati sproporzionati. In caso di esclusione parziale dall'applicazione delle misure previste nel presente articolo, il decreto di cui al comma 2 
+gli strumenti o le classi di strumenti esclusi, fermo il rispetto dei criteri di cui al comma 3, lettere a), c) e d). 
+La valutazione sull'applicabilita' delle ipotesi di esclusione indicate nel presente comma e' compiuta dalla Commissione europea.
+6. 
 All'assunzione di partecipazioni nell'Emittente conseguente alle misure disposte ai sensi del comma 2 si applicano gli articoli 53 e 58, comma 2,
 del decreto legislativo 16 novembre 2015, n. 180, e non si applicano gli articoli 2359-bis, 2359-ter, 2359-quinquies e 2360 del codice civile e l'articolo 121 del decreto legislativo 24 febbraio 1998, n. 58.
-9. 
+7. 
 La tutela giurisdizionale avverso le misure indicate dal presente articolo e' disciplinata dall'articolo 95 del decreto legislativo 16 novembre 2015, n. 180. In caso di violazione della condizione indicata dal comma 5, lettera c), si applica l'articolo 89, comma 1, del decreto legislativo 16 novembre 2015, n. 180; il relativo indennizzo e' corrisposto dall'Emittente
 mediante l'attribuzione di nuove azioni.
-10. 
-In caso di adozione di una misura di cui al presente articolo o all'articolo 19, ai contratti stipulati dall'Emittente, da una componente del gruppo bancario a cui esso appartiene o da un soggetto da esso controllato si applica l'articolo 65 del decreto legislativo 16 novembre 2015, n. 180. 
+8. 
+In caso di adozione di una misura di cui al presente articolo, ai contratti stipulati dall'Emittente, da una componente del gruppo bancario a cui esso appartiene o da un soggetto da esso controllato si applica l'articolo 65 del decreto legislativo 16 novembre 2015, n. 180. 
 Sono in ogni caso inefficaci le pattuizioni contenute in contratti stipulati con l'Emittente o con una componente del gruppo a cui esso appartiene, che, in caso di adozione di una misura di cui al presente articolo o di un evento direttamente legato all'applicazione di tali misure prevedono la risoluzione del contratto o attribuiscono al contraente il diritto di recedere dal contratto, di sospendere,
 modificare o compensare i propri obblighi, di escutere una garanzia, di esigere immediatamente la prestazione pattuita con decadenza dal termine o di pretendere una penale a carico dell'Emittente o di altra componente
 del gruppo a cui esso appartiene. Relativamente ai contratti stipulati dall'Emittente
-o da una componente del gruppo a cui esso appartiene, l'adozione di una misura di cui al presente articolo o il verificarsi di un evento direttamente connesso all'applicazione di tali misure non costituisce di per se
+da una componente del gruppo a cui esso appartiene, l'adozione di una misura di cui al presente articolo o il verificarsi di un evento direttamente connesso all'applicazione di tali misure non costituisce di per se'
 un inadempimento di un obbligo contrattuale, un evento determinante l'escussione della garanzia ai sensi dell'articolo 1, comma 1, lettera i), del decreto legislativo 21 maggio 2004,
-n.170, una procedura di insolvenza ai sensi dell'articolo 1, comma 1, lettera p), del decreto legislativo 12 aprile 2001, n. 210,
+n. 170, una procedura di insolvenza ai sensi dell'articolo 1, comma 1, lettera p), del decreto legislativo 12 aprile 2001, n. 210,
 o un evento che determina la decadenza dal termine ai sensi dell'articolo 1186 del codice civile.
-11. 
+9. 
 Le disposizioni contenute nel presente articolo sono di applicazione necessaria ai sensi dell'articolo 9 del regolamento (CE) del Parlamento europeo e del Consiglio n. 593 del 17 giugno 2008 e dell'articolo 17 della legge 31 maggio 1995,
 n. 218. Esse costituiscono provvedimenti di risanamento ai sensi della direttiva (CE) del Parlamento europeo e del Consiglio n. 24 del 4 aprile 2001
-e si applicano e producono i loro effetti negli altri Stati comunitari secondo quanto previsto nel Titolo IV, Sezione III-bis, del Testo unico bancario. 
+e si applicano e producono i loro effetti negli altri Stati comunitari secondo quanto previsto nel Titolo IV, Sezione III-bis, del Testo unico bancario.
+10. 
+I maggiori o minori valori che derivano dall'applicazione del comma 2 non concorrono alla formazione del reddito complessivo dell'Emittente ai fini delle imposte sul reddito e alla determinazione del valore della produzione netta. 
 
-                               Art. 23 
+                               Art. 21 
  
-                         Disposizioni finali 
+                     Disposizioni di attuazione 
  
 1. 
 Con decreti del Ministro dell'economia e delle finanze, sentita la Banca d'Italia, possono essere dettate disposizioni di attuazione del presente Capo II.
 2. 
 Ai fini della strutturazione degli interventi previsti dal presente Capo II, nonche' della gestione dell'eventuale contenzioso, il Ministero puo' avvalersi,
-a spese dell'Emittente, di esperti in materia finanziaria, contabile e legale, scelti fra soggetti che non abbiano in corso o non abbiano intrattenuto negli ultimi due anni relazioni di affari, professionali o finanziarie con l'Emittente tali da comprometterne l'indipendenza.
-3. 
-In sede di prima applicazione del presente Capo, qualora Banca Monte dei Paschi S.p.A. presenti la richiesta di cui all'articolo 15, comma 1, il valore economico reale da attribuire alle passivita' da essa emesse e indicate all'articolo 22, comma 2, ai fini di cui al comma 5, lettera d), del medesimo articolo, e' cosi' determinato:
-  a) Emissione XS0122238115: 75% del valore nominale;
-  b) Emissione XS0121342827: 75% del valore nominale;
-  c) Emissione XS0131739236: 75% del valore nominale;
-  d) Emissione XS0180906439: 18% del valore nominale;
-  e) Emissione IT0004352586: 100% del valore nominale;
-  f) Emissione XS0236480322: 100% del valore nominale;
-  g) Emissione XS0238916620: 100% del valore nominale;
-  h) Emissione XS0391999801: 100% del valore nominale;
-  i) Emissione XS0415922730: 100% del valore nominale;
-  l) Emissione XS0503326083: 100% del valore nominale;
-  m) Emissione XS0540544912: 100% del valore nominale.
-4. In considerazione di quanto previsto dal  comma  3,  l'eventuale richiesta di  Banca  Monte  dei  Paschi  di  Siena  non  contiene  la valutazione di cui all'articolo 15, comma 1, lettera c). 
+a spese dell'Emittente, di esperti in materia finanziaria, contabile e legale, scelti fra soggetti che non abbiano in corso o non abbiano intrattenuto negli ultimi tre anni relazioni di affari, professionali o finanziarie con l'Emittente tali da comprometterne l'indipendenza. 
 
-                               Art. 24 
+                               Art. 22 
  
                          Risorse finanziarie 
  
 1. 
 Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un Fondo con una dotazione di 
-20 miliardi di euro per l'anno 2017,
+1,3 miliardi di euro per l'anno 2019,
 destinato alla copertura degli oneri derivanti dalle operazioni di sottoscrizione
-e acquisto di azioni effettuate per il rafforzamento patrimoniale
-(ai sensi del capo II) e dalle garanzie concesse dallo Stato su passivita' di nuova emissione e sull'erogazione di liquidita' di emergenza
-(ai sensi del capo I) a favore delle banche e dei gruppi bancari italiani.
-3. 
+di azioni effettuate per il rafforzamento patrimoniale
+nel limite massimo di 1 miliardo di euro (ai sensi del capo II) dalle garanzie concesse dallo Stato su passivita' di nuova emissione e sull'erogazione di liquidita' di emergenza
+(ai sensi del capo I) a favore di banca Carige.
+Ai relativi oneri si provvede, quanto a 1 miliardo di euro mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 170, della legge 24 dicembre 2012, n. 228 come rifinanziata da ultimo con la legge 30 dicembre 2018, n. 145, e quanto a 0,3 miliardi di euro, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 37, comma 6, del decreto legge 24 aprile 2014, n. 66, convertito con modificazioni dalla legge di conversione 23 giugno 2014, n. 89.
+2. 
 Con decreti del Ministro dell'economia e delle finanze e' disposta la ripartizione della dotazione del Fondo tra le finalita' di cui al comma 1
 e la eventuale successiva rimodulazione in relazione alle effettive esigenze.
-4. 
+3. 
 Gli importi destinati alla copertura delle garanzie concesse ai sensi del capo I sono versati su apposito conto corrente di Tesoreria centrale.
-5. 
+4. 
 I corrispettivi delle garanzie concesse e quelli derivanti dalla successiva eventuale cessione delle azioni sono versati all'entrata del bilancio dello Stato per essere riassegnati al Fondo di cui al comma 1.
 Le risorse del Fondo non piu' necessarie alle finalita' di cui
-al comma 1, quantificate con decreto del Ministro dell'economia e delle finanze, sono versate all'entrata del bilancio dello Stato per essere riassegnate al Fondo ammortamento titoli di Stato. 
+al presente decreto sono quantificate e trasferite, anche mediante versamento all'entrata 
+del bilancio dello Stato e successiva riassegnazione alla spesa, ai capitoli di provenienza,
+con decreto del Ministro dell'economia e delle finanze.
+5. 
+Ai fini dell'immediata attuazione delle disposizioni recate dal presente decreto il Ministro dell'economia e delle finanze e' autorizzato ad apportare le occorrenti variazioni di bilancio. Ove necessario, il Ministero dell'economia e delle finanze puo' disporre il ricorso ad anticipazioni di tesoreria, la cui regolarizzazione avviene tempestivamente con l'emissione di ordini di pagamento sui pertinenti capitoli di spesa. 
 
-							Art. 25 
- 
-           Contribuzioni al Fondo di risoluzione nazionale 
- 
-1. Le contribuzioni addizionali di cui all'articolo 1,  comma  848, della legge 28 dicembre 2015, n. 208 sono versate per la copertura di qualsiasi  obbligazione,  perdita,  costo  e  qualsivoglia  onere   o passivita' a carico  del  Fondo  di  risoluzione  nazionale  comunque derivanti o connesse con  l'esecuzione  dei  Provvedimenti  di  avvio delle risoluzione e con l'esigenza di assicurarne l'efficacia,  anche in conseguenza delle eventuali modifiche ad essi apportate.
-2. La Banca d'Italia puo' determinare l'importo delle contribuzioni addizionali da versare al Fondo di risoluzione nazionale ai  fini  di cui al comma 1, al netto delle contribuzioni richiamate dal Fondo  di risoluzione unico ai sensi degli articoli 70  e  71  del  regolamento (UE) n. 806/2014, non  oltre  i  due  anni  successivi  a  quello  di riferimento delle contribuzioni addizionali medesime e puo' stabilire che dette contribuzioni siano  dovute  in  un  arco  temporale  dalla stessa definito, non superiore  a  cinque  anni;  la  Banca  d'Italia comunica annualmente l'importo dovuto per ciascun anno  del  suddetto periodo.
-3. Per ogni anno del periodo di cui al comma precedente,  l'importo delle contribuzioni addizionali e' dovuto dalle  banche  aventi  sede legale  in
-Italia   e   dalle   succursali   italiane   di   banche extracomunitarie considerate dal Comitato di risoluzione unico,  alla data di riferimento individuata dal Comitato stesso,  ai  fini  della contribuzione annuale al Fondo di risoluzione unico per  il  medesimo anno; i criteri di ripartizione delle contribuzioni addizionali  sono quelli  stabiliti  dal  Comitato  di   risoluzione   unico   per   le contribuzioni al Fondo di risoluzione unico per il medesimo anno. 
-
-                               Art. 26 
- 
-Modifiche all'articolo 3 del decreto legislativo 21 maggio  2004,  n. 170
-1. 
-All'articolo 3 del decreto legislativo 24 maggio  2004,  n.  170 sono apportate le seguenti modificazioni:
-a) il secondo periodo del comma 1-bis, e' sostituito dal seguente «Salvo quanto previsto dal comma seguente, ai fini dell'opponibilita' ai terzi e al debitore ceduto o debitore del credito  dato  in  pegno restano  fermi  i  requisiti  di  notificazione  al  debitore  o   di accettazione da parte del debitore previsti dal codice civile.»;
-b) dopo il comma 1-bis sono inseriti i seguenti:
-«1-ter. Qualora, al fine di  soddisfare  anche  in  modo  indiretto esigenze di liquidita', la  Banca  d'Italia  effettui  operazioni  di finanziamento o di altra natura che siano garantite mediante pegno  o cessione di credito, la garanzia ha effetto nei confronti  dei  terzi dal momento della sua prestazione, ai sensi degli articoli 1, comma 1 lettera q), e 2, comma 1, lettera b), e in deroga agli articoli 1265, 2800 e 2914 n. 2), del codice civile. In deroga agli articoli 1248  e 2805 del codice civile, il debitore ceduto o il debitore del  credito dato in  pegno  non  possono  opporre  in  compensazione  alla  Banca d'Italia  eventuali  crediti  vantati  nei  confronti  del   soggetto rispettivamente cedente o  datore  di  pegno,  indipendentemente  dal fatto che tali crediti siano sorti, acquisiti  o  divenuti  esigibili prima della prestazione della garanzia a favore della Banca  d'Italia o  dopo  la  stessa.  Agli  altri   effetti   di   legge,   ai   fini dell'opponibilita' della garanzia al debitore ceduto  o  al  debitore del credito dato in pegno restano fermi i requisiti di  notificazione o di accettazione previsti dal codice civile.
-1-quater.  Quando  le  garanzie  indicate  nel  comma  1-ter   sono costituite da  crediti  ipotecari,  non  e'  richiesta  l'annotazione prevista dall'articolo 2843 del codice civile. Alle operazioni  della Banca d'Italia indicate al comma  1-ter  si  applica  l'articolo  67, comma 4, del regio decreto 16 marzo 1942, n. 267.». 
-
-
-                           Art. 27 
- 
-                      Disposizioni finanziarie 
- 
-1.  
-Per l'anno 2017, il livello massimo del saldo netto da finanziare del bilancio dello Stato e il livello massimo del ricorso al mercato finanziario, di competenza e di cassa, di cui all'allegato 1, articolo 1, comma 1, della legge 11 dicembre 2016, n. 232, nonche' l'importo massimo di emissione di titoli pubblici, in Italia e all'estero, di cui all'articolo 3, comma 2, della legge 11 dicembre 2016, n. 232, sono rispettivamente incrementati di 20 miliardi di euro.
-2. All'onere derivante dalle maggiori emissioni nette di titoli pubblici di cui al comma 1, nell'importo massimo di 60 milioni di euro per l'anno 2017, di 232 milioni di euro per l'anno 2018 e di 290 milioni di euro a decorrere dall'anno 2019, che aumentano a 148 milioni di euro per l'anno 2017, a 359 milioni di euro per l'anno 2018 e a 426 milioni di euro a decorrere dall'anno 2019, ai fini della compensazione degli effetti in termini di indebitamento netto, si provvede:
-a) quanto a 14 milioni per l'anno 2017, 51 milioni per l'anno 2018, 129 milioni di euro per l'anno 2019 e a 100 milioni di euro annui a decorrere dall'anno 2020, mediante corrispondente utilizzo del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307;
-b) quanto a 30 milioni di euro per l'anno 2017, a 100 milioni di euro per ciascuno degli anni 2018 e 2019, e a 129 milioni di euro annui a decorrere dall'anno 2020, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190;
-c) quanto a 16 milioni di euro per l'anno 2017, a 81 milioni di euro per l'anno 2018 e a 61 milioni di euro annui a decorrere dall'anno 2019, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2016, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero per 10 milioni di euro per l'anno 2017, 70 milioni di euro per l'anno 2018 e a 50 milioni di euro annui a decorrere dall'anno 2019, l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare per 2 milioni di euro per l'anno 2017 e per 4 milioni di euro annui a decorrere dall'anno 2018, l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti per 2 milioni di euro per l'anno 2017 e per 3 milioni di euro annui a decorrere dall'anno 2018 e l'accantonamento relativo al Ministero della salute per 2 milioni di euro per l'anno 2017 e per 4 milioni di euro annui a decorrere dall'anno 2018;
-d) quanto a 88 milioni di euro per l'anno 2017, a 127 milioni di euro per l'anno 2018 e a 136 milioni di euro annui a decorrere dall'anno 2019, mediante corrispondente utilizzo del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008 n. 189.
-3. Le risorse di cui al precedente comma 2, lettere b) e c), sono iscritte sul fondo di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307 e, unitamente a quelle di cui alla lettera a) e d), sono accantonate e rese indisponibili in termini di competenza e di cassa.
-4.
-Con decreti del Ministro dell'economia e delle finanze, da comunicare al Parlamento, sulla base delle effettive emissioni di titoli del debito pubblico realizzate nel 2017 in relazione alle disposizioni di cui al presente decreto-legge, si provvede alla riduzione degli stanziamenti accantonati di cui al periodo precedente in misura corrispondente al finanziamento dei maggiori interessi passivi, ovvero al disaccantonamento delle risorse che si prevede di non utilizzare per le finalita' di cui al presente decreto.;
-5. Ai fini dell'immediata attuazione delle disposizioni recate dal presente decreto, ove necessario, il Ministero dell'economia e delle finanze puo' disporre il ricorso ad anticipazioni di tesoreria, la cui regolarizzazione avviene tempestivamente con l'emissione di
-ordini di pagamento sui pertinenti capitoli di spesa. 
-
-                               Art. 28 
+                               Art. 23 
  
                           Entrata in vigore 
 
 1. 
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. Dato a Palermo, addi' 23 dicembre 2016 
+Il presente decreto entra in vigore il giorno stesso  della  sua pubblicazione nella Gazzetta Ufficiale della  Repubblica  italiana  e sara' presentato alle Camere per la conversione in legge.
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella  Raccolta  ufficiale  degli  atti  normativi  della  Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+    Dato a Roma, addi' 8 gennaio 2019 
  
                              MATTARELLA 
  
-                                  Gentiloni Silveri,  Presidente  del
-                                  Consiglio dei ministri 
+                                  Conte, Presidente del Consiglio dei
+                                  ministri 
  
-                                  Padoan,  Ministro  dell'economia  e
+                                  Tria,  Ministro   dell'economia   e
                                   delle finanze 
  
- 
-Visto, il Guardasigilli: Orlando 
+Visto, il Guardasigilli: Bonafede 
 
                                                              Allegato 
  
-METODOLOGIE DI CALCOLO 
+METODOLOGIA DI CALCOLO 
  
-In caso di applicazione della  misura  di  ripartizione  degli  oneri
-prevista dall'articolo 22, comma 2 
+IN CASO DI APPLICAZIONE DELLA MISURA DI  RIPARTIZIONE  DEGLI  ONERI
+PREVISTA DALL'ARTICOLO 20, COMMA 2 
  
-A) Numero di  azioni  attribuite  ai  portatori  degli  strumenti  di
+A) Numero di azioni attribuite  ai  portatori  degli  strumenti  di
 capitale aggiuntivo di classe 1, degli elementi di classe 2  e  degli
-altri strumenti e prestiti subordinati 
-Il numero di azioni ordinarie attribuite ai portatori degli strumenti
-di capitale aggiuntivo di classe 1 (AT1), degli elementi di classe  2
-e degli altri strumenti e  prestiti  subordinati  (T2),  in  caso  di
+altri strumenti e prestiti subordinati. 
+ 
+Il  numero  di  azioni  ordinarie  attribuite  ai  portatori  degli
+strumenti di capitale aggiuntivo di classe 1 (AT1), degli elementi di
+classe 2 e degli altri strumenti e prestiti subordinati, in  caso  di
 conversione, e' determinato secondo le seguenti formule: 
- 
-           VSAT1 
-NAZNSAT1 = ----- 
-           PAZN 
- 
-          VET2 
-NAZNET2 = ---- 
-          PAZN 
- 
- 
-       NAZV * PAZV - (NAZV * PAZV + VCSAT1 + VCET2 + AUCAPMEF) * K 
-PAZN = ----------------------------------------------------------- 
-                                NAZV 
- 
+
+           VSAT1
+NAZNSAT1 = -----
+           PAZN
+
+          VET2
+NAZNET2 = -----
+          PAZN
+
+       NAZV * PAZV - (NAZV * PAZV + VCSAT1 + VCET2 + AUCAPMEF)* K
+PAZN = ----------------------------------------------------------
+                               NAZV
+
+
+    
 dove: 
-NAZNSAT1 = numero nuove azioni ordinarie assegnate  ai  portatori  di
+NAZNSAT1 = numero nuove azioni ordinarie assegnate ai portatori  di
 strumenti AT1 
-NAZNET2 = numero nuove azioni ordinarie  assegnate  ai  portatori  di
+NAZNET2 = numero nuove azioni ordinarie assegnate ai  portatori  di
 strumenti T2 
-VSAT1 = valore degli strumenti AT1 da convertire determinato  secondo
-quanto previsto dall'articolo 15, commi 1, lettera c), e  2,  lettera
+VSAT1 =  valore  degli  strumenti  AT1  da  convertire  determinato
+secondo quanto previsto dall'articolo 14, commi 4, lettera a),  e  5,
+lettera a), del decreto legge 
+VET2 = valore degli strumenti T2 da convertire determinato  secondo
+quanto previsto dall'articolo 14, commi 4, lettera a), e  5,  lettera
 a), del decreto legge 
-VET2 = valore degli strumenti T2 da  convertire  determinato  secondo
-quanto previsto dall'articolo 15, commi 1, lettera c), e  2,  lettera
-a), dei decreto legge 
-VCSAT1 = valore contabile degli strumenti AT1 da  convertire  fornito
-dall'Emittente ai sensi dell'articolo 15, comma 1,  lettera  c),  del
+VCSAT1 = valore contabile degli strumenti AT1 da convertire fornito
+dall'Emittente ai sensi dell'articolo 14, comma 4,  lettera  a),  del
 decreto legge 
-VCET2 = valore contabile degli strumenti  T2  da  convertire  fornito
-dall'Emittente ai sensi dell'articolo 15, comma 1,  lettera  c),  del
+VCET2 = valore contabile degli strumenti T2 da  convertire  fornito
+dall'Emittente ai sensi dell'articolo 14, comma 4,  lettera  a),  del
 decreto legge 
 AUCAPMEF = aumento di capitale sottoscritto dal Ministero 
 PAZN = prezzo delle azioni ordinarie di nuova emissione 
-NAZV  =  numero  delle  azioni  ordinarie   in   circolazione   prima
-dell'aumento di capitale previsto dall'articolo 18 del decreto legge 
-PAZV = valore  delle  azioni  ordinarie  determinato  secondo  quanto
-previsto dagli articoli 15, comma 2, lettera c) e 18, comma 4 
-K = 10% 
-Se per effetto dell'applicazione del fattore di sconto il  valore  di
-PAZN e' negativo, k=0 
- 
- 
+NAZV=  numero  delle  azioni  ordinarie   in   circolazione   prima
+dell'aumento di capitale previsto dall'articolo 17 del decreto legge,
+ivi  incluse  le  azioni  risultanti   dalla   conversione   prevista
+dall'articolo 17, comma 8, del decreto legge 
+PAZV =  valore  delle  azioni  ordinarie,  ivi  incluse  le  azioni
+risultanti dalla conversione  prevista  dall'articolo  17,  comma  8,
+determinato secondo quanto previsto dagli articoli 14, comma 2, e 17,
+comma 4, del decreto legge 
+K= 15%. 
+Se per effetto dell'applicazione del fattore di sconto il valore di
+PAZN e' negativo, PAZN = 50%*PAZV 
 B) Numero delle azioni di nuova emissione attribuite al Ministero 
- 
-          AUCAPMEF 
-NAZNMEF = -------- 
-            PAZN 
+Il numero di azioni ordinarie  di  nuova  emissione  attribuite  al
+Ministero e il prezzo di sottoscrizione sono determinati  secondo  le
+seguenti formule: 
+    
+
+          AUCAPMEF
+NAZNMEF = --------
+          PAZNMEF
+
+    
+PAZNMEF= PAZN* (1-W) 
  
 dove: 
 NAZNMEF = numero nuove azioni ordinarie assegnate al Ministero 
- 
-In caso di disapplicazione della misura di ripartizione  degli  oneri
-prevista dall'articolo 22, comma 2 (cfr. articolo  22,  comma  7  del
-decreto legge) 
-Numero e prezzo di sottoscrizione delle  azioni  di  nuova  emissione
+PAZNMEF = prezzo delle azioni di nuova emissione  sottoscritte  dal
+Ministero 
+W = 25% 
+In caso di non applicazione  della  misura  di  ripartizione  degli
+oneri prevista dall'articolo 20, comma 2 
+Numero e prezzo di sottoscrizione delle azioni di  nuova  emissione
 attribuite al Ministero 
-  Il numero di azioni ordinarie  di  nuova  emissione  attribuite  al
+Il numero di azioni ordinarie  di  nuova  emissione  attribuite  al
 Ministero e il prezzo di sottoscrizione sono determinati  secondo  le
 seguenti formule: 
- 
-          AUCAPMEF 
-NAZNMEF = -------- 
-          PAZNMEF 
- 
- 
-          NAZV * PAZV - (NAZV * PAZV + AUCAPMEF) * Z 
-PAZNMEF = ------------------------------------------ 
-                            NAZV 
- 
+NAZNMEF=AUCAPMEF/PAZNMEF 
+PAZNMEF= [NAZV*PAZV - (NAZV*PAZV + AUCAPMEF)*Z]*(1-W)/NAZV 
 dove: 
 NAZNMEF = numero nuove azioni ordinarie assegnate al Ministero 
 AUCAPMEF = aumento di capitale sottoscritto dal Ministero 
-PAZNMEF = prezzo delle azioni ordinarie di nuova emissione  assegnate
-al Ministero 
-NAZV  =  numero  delle  azioni  ordinarie   in   circolazione   prima
-dell'aumento di capitale previsto dall'articolo 18 del decreto legge 
-PAZV = valore  delle  azioni  ordinarie  determinato  secondo  quanto
-previsto dagli articoli 15, comma 2, lettera c) e 18, comma 4 
-Z = 10% 
-Se per effetto dell'applicazione del fattore di sconto il  valore  di
-PAZNMEF e' negativo, Z=0 
+PAZNMEF  =  prezzo  delle  azioni  ordinarie  di  nuova   emissione
+sottoscritte dal Ministero 
+NAZV=  numero  delle  azioni  ordinarie   in   circolazione   prima
+dell'aumento di capitale previsto dall'articolo 17 del decreto legge,
+ivi  incluse  le  azioni  risultanti   dalla   conversione   prevista
+dall'articolo 17, comma 8, del decreto legge 
+PAZV =  valore  delle  azioni  ordinarie,  ivi  incluse  le  azioni
+risultanti dalla conversione prevista dall'articolo 17, comma 8,  del
+decreto legge, determinato secondo quanto previsto dagli articoli 14,
+comma 2, e 17, comma 4, del decreto legge 
+Z = 15% 
+W = 25% 
+Se per effetto dell'applicazione del fattore di sconto Z il  valore
+di PAZNMEF e' negativo, PAZNMEF = 37,5%*PAZV 
 
